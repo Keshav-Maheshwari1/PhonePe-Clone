@@ -1,0 +1,193 @@
+
+
+body{
+    background: white;
+}
+.outside_container{
+    margin-top: 30rem;
+
+}
+.b1{  margin-right: 12px;
+    margin: auto;
+    margin-top: 69px;   
+    text-align: center;
+    font-size: 130%;
+    padding:10px;
+    font-family:sans-serif,Helvetica,Arial;
+    font-weight:500;
+    font-size: 19px;
+    height: 40px;
+    margin-top: 55px;
+    width: 260px;
+    border:none;
+    border-radius: 40px;
+    border: 1px solid rgb(69, 40, 134);
+    border-radius: 40px;
+    color: rgb(69, 40, 134);
+    background-color: white;
+    cursor: pointer;
+    line-height: 19px;   
+    
+    ;
+}
+.b1:hover{
+   background-color: rgb(55,31,123);
+   color: white;
+
+
+}
+.txt{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 250px; 
+    display: flex;
+    justify-content: center;
+    width: 76%;
+    font-family:sans-serif,Helvetica,Arial ;
+    font-weight: lighter;
+    color: rgb(70, 70, 70);
+    line-height: 35px;
+    word-spacing: 2px;
+    font-size: 19px;
+}
+.txt2{
+    margin-top: 5px;
+    margin-left: 696px;
+    font-family: sans-serif,Helvetica,Arial;
+    font-weight: lighter;
+    font-size: large;
+    color: #895DBA;
+    line-height: 40px;
+}
+.big-container{
+    background-image: linear-gradient(#DFDAFA,white);
+    background-size: cover;
+    height: 800px;
+ margin-top: 320px;
+background-size: cover;
+
+
+}
+
+.main-container{
+    margin-top: -999px;
+  box-sizing: 50%;
+   height: 330px;
+ background-image: url("https://www.phonepe.com/webstatic/5040/static/trust-banner-861f26253b71e00c083fd5f6c2ea30fc.png");
+ background-color:#967EDD;
+ border-radius: 50px;
+background-size: cover;
+margin-left: 140px;
+margin-right: 120px;
+background-position: -130px 0;
+background-repeat: no-repeat;
+}
+
+.t1{
+    text-align: center;
+    margin-left: 50px;
+    font-size: 40px;
+      padding-top: 60px;
+      font-family:Arial, Helvetica, sans-serif;
+      font-weight: 900;
+      color: white;
+      background-repeat: no-repeat;
+      
+
+
+
+      
+}
+.t2{
+    margin-left: 400px;
+    margin-top: 30px;
+    font-family:sans-serif,Helvetica,Arial ;
+    font-weight:700;
+    color: white;
+    line-height: 35px;
+    word-spacing: 2px;
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    text-align: left;
+    font-size: 19px;
+
+}
+.img1{
+        height: 200px;
+        margin-top: -150px;
+        margin-left: 75px;
+}
+.br1{
+    margin-left: 30px;
+    height:30px;
+    margin-top: 10px;
+}
+.br2{
+    height:27px;
+    margin-left: 400px;
+    
+}
+.txt3{
+    padding-top: 110px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    font-size: 2.625rem;
+    font-weight:700;
+    text-align: center;
+    width: 900px;
+    color: #361968;
+    font-family:PhonePeSans, sans-serif, Helvetica, Arial;
+}
+.txt4{
+    padding-top: 0px;
+   margin-top: 10px;
+    margin-left: 300px;
+    font-size: 2.625rem;
+    font-weight:700;
+    text-align: center;
+    width: 900px;
+    color: #361968;
+    font-family:PhonePeSans, sans-serif, Helvetica, Arial;
+}
+.pwu{
+margin: auto;
+text-align: center;
+font-size: 130%;
+/*padding:10px;*/
+font-family:sans-serif,Helvetica,Arial;
+font-weight:500;
+font-size: 19px;
+height: 60px;
+margin-top: 60px;
+width: 280px;
+border:none;
+border-radius: 40px;
+background-color: #00b3cfae;
+color: white;
+cursor: pointer;
+background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzMiIGhlaWdodD0iMTciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgc3Ryb2tlPSIjRkZGIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48cGF0aCBkPSJNMS4wNTQgOC41SDMxIi8+PHBhdGggc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTI0IDFsOCA4LTggNyIvPjwvZz48L3N2Zz4=);
+background-repeat: no-repeat;
+background-position-x: 83%;
+background-position-y: center;
+line-height: 60px;
+transition: background-color 0.2s ease, box-shadow 0.2s ease, background-position 0.2s ease-in-out;
+
+}
+.t{
+    margin-bottom: 60px;
+    margin-right: 40px;
+}
+
+.pwu:hover{
+    background-color:#10D6F2;
+    background-position-x:88%;
+    box-shadow: 0 0 10px #49eaff; 
+  
+   
+}
+.final{
+    width:90%;
+    padding-top: 30px;
+    padding-left: 80px;
+}
